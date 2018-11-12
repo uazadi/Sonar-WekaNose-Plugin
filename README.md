@@ -45,4 +45,4 @@ I ask to be very careful to insert all the additional dependencies in the file m
 
 For more details consult my [Bachelor Thesis](https://drive.google.com/open?id=160Tga1R02J-KgtDvXqRZASViouMKK4u6).
 
-For any problem related to the operation contact: alessandro.polastri94@gmail.com
+For any problem related to the operation contact: u.azadi@campus.unimib.it
