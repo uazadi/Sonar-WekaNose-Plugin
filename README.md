@@ -4,13 +4,15 @@ SonarQube plugin for Code Smell detection through machine-learning techniques.
 This plugin was developed during my university internship provided by the ESSeRE Lab (University of Milano Bicocca).
 
 PRE-REQUISITES:
+-----------
 
-This plugin can be used only with WINDOWS Operating Systems.
+This plugin can be used only with __WINDOWS Operating Systems__.
 
-NB: Check that the SonarQube folder is NOT inserted in paths where administrative permission is required to access or edit 
+NB: Check that the SonarQube folder is _NOT_ inserted in paths where administrative permission is required to access or edit 
 (for example, in the Windows Programs folder).
 
 STRUCTURE OF THE ZIP FILE:
+-----------
 
 Inside the zip to download are present the Sonar-WekaNose-Plugin JAR, and a folder called "sonar-wekanose-plugin-tools" that contains:
 
@@ -23,11 +25,12 @@ information can be found within the same file.
 4) After the first SonarQube run will appear a new folder called Analysis that is used to contains all the files created during the 
 analysis.
 
-NB: All these files and folders are necessary for the correct operation of the plugin.
+NB: __All these files and folders are necessary__ for the correct operation of the plugin.
 
 INSTALLATION:
+-----------
 
-1) [Dowload](https://drive.google.com/open?id=1Vuo-s0Xz-J8QEfgfDSdSbRH9k7r3WJya) the zip file "Sonar-WekaNose-Plugin.zip".
+1) [Dowload](https://github.com/uazadi/Sonar-WekaNose-Plugin/releases/tag/v1.0) the zip file "Sonar-WekaNose-Plugin.zip".
 2) Unpack this file in the "...\SonarQube\extensions\plugins" folder.
 3) Start SonarQube, and open it at localhost:9000.
 4) Log in as Administrator.
@@ -36,6 +39,7 @@ INSTALLATION:
 7) Run the project to analyze with SonarQube.
 
 POSSIBLE ERRORS:
+-----------
 
 If no all additional dependencies are placed in the AddExternalDependencies.properties file, the program remains locked while doing nothing. This is notified during the analysis, if this happens, but it is also possible that the warning message appears during the analysis of a project with many dependencies (in which case it is sufficient to let the execution continue). The message is as follows:
 
