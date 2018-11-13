@@ -1,7 +1,7 @@
 # Sonar-WekaNose-Plugin
 
-SonarQube plugin for Code Smell detection through machine-learning techniques.
-This plugin was developed during my university internship provided by the ESSeRE Lab (University of Milano Bicocca).
+This is a [SonarQube](https://www.sonarqube.org/) plugin that allows to use machine learning algorithm for Code Smell detection.
+This plugin was developed during my university internship provided by the [ESSeRE Lab](http://essere.disco.unimib.it/wiki/) (University of Milano Bicocca).
 
 PRE-REQUISITES:
 -----------
