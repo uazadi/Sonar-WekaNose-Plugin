@@ -47,6 +47,6 @@ If no all additional dependencies are placed in the AddExternalDependencies.prop
 
 I ask to be very careful to insert all the additional dependencies in the file mentioned above.
 
-For more details consult the following [Bachelor Thesis](https://drive.google.com/open?id=1hO4ZWfGGTLic3zlP_BqlE2IJLj9rwdup).
+For more details consult the following [User Guide](http://essere.disco.unimib.it/wiki/_media/wn_tutorial_sonarqube_plugin.pdf).
 
 For any problem related to the operation contact: u.azadi@campus.unimib.it
